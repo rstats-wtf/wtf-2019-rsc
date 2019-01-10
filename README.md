@@ -1,4 +1,4 @@
-# wtf-2019-rsc
+# [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc)
 
 Details specific to:
 
