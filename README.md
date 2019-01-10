@@ -11,7 +11,20 @@ Details specific to:
 
 Please do the requested Git/GitHub prep in advance, as per email! Go [here](http://happygitwithr.com/workshops.html#pre-workshop-set-up) for details and use [this community thread](https://community.rstudio.com/t/what-they-forgot-to-teach-you-system-setup-for-rstudio-conf-2019/20914) if you hit a roadblock.
 
-## Basic schedule
+## Schedule
+
+#### Tuesday
+
+08:00 - 09:00 Registration/breakfast  
+09:00 - 10:30 [1: Project-oriented workflow](day1_1)  
+10:30 - 11:00 Break  
+11:00 - 12:30 Workshop session 2  
+12:30 - 14:00 Lunch  
+14:00 - 15:30 Workshop session 3  
+15:30 - 16:00 Break  
+16:00 - 17:30 Workshop session 4  
+
+#### Wednesday
 
 08:00 - 09:00 Registration/breakfast  
 09:00 - 10:30 Workshop session 1  
