@@ -16,24 +16,24 @@ Please do the requested Git/GitHub prep in advance, as per email! Go [here](http
 #### Tuesday
 
 08:00 - 09:00 Registration/breakfast  
-09:00 - 10:30 [1: Project-oriented workflow](day1_1)  
+09:00 - 10:30 [1_1: Project-oriented workflow](day1_1)  
 10:30 - 11:00 Break  
-11:00 - 12:30 Workshop session 2  
+11:00 - 12:30 [1_2: ???](day1_2)  
 12:30 - 14:00 Lunch  
-14:00 - 15:30 Workshop session 3  
+14:00 - 15:30 [1_3: ???](day1_3)   
 15:30 - 16:00 Break  
-16:00 - 17:30 Workshop session 4  
+16:00 - 17:30 [1_4: ???](day1_4)  
 
 #### Wednesday
 
 08:00 - 09:00 Registration/breakfast  
-09:00 - 10:30 Workshop session 1  
+09:00 - 10:30 [2_1: ???](day2_1)  
 10:30 - 11:00 Break  
-11:00 - 12:30 Workshop session 2  
+11:00 - 12:30 [2_2: ???](day2_2)  
 12:30 - 14:00 Lunch  
-14:00 - 15:30 Workshop session 3  
+14:00 - 15:30 [2_3: ???](day2_3)  
 15:30 - 16:00 Break  
-16:00 - 17:30 Workshop session 4  
+16:00 - 17:30 [2_4: ???](day2_4)  
 
 ## Themes
 

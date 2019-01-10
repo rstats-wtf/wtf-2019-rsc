@@ -1,0 +1,15 @@
+## Day 2, Session 3
+
+Who: ???
+
+Agenda
+
+  * ???
+  
+Slides
+
+  * [???.pdf](???.pdf)
+  
+Activity prompts
+
+  * `usethis::use_course("rstd.io/???")`
