@@ -1,27 +1,26 @@
 # wtf-2019-rsc
 
-Details specific to the January 15/16 2019 offering of the "What They Forgot to Teach You About R" workshop. Held on the training days of [rstudio::conf 2019](https://www.rstudio.com/conference/) in Austin, TX.
+Details specific to:
+
+  * "What They Forgot to Teach You About R" workshop
+  * January 15/16 2019, the training days of [rstudio::conf 2019](https://www.rstudio.com/conference/) in Austin, TX
 
 [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc) <-- The One True URL that will link to everything!
 
-  * GitHub repo: <https://github.com/jennybc/wtf-2019-rsc>
-  * GitHub Pages site, based on that repo: <https://jennybc.github.io/wtf-2019-rsc/>
-  * Eash-to-type rstd.io short link to that GitHub site: [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc)
-
 ## Pre-work
 
-**Please do the requested Git/GitHub prep in advance, as per email! Go [here](http://happygitwithr.com/workshops.html#pre-workshop-set-up) for details and use [this community thread](https://community.rstudio.com/t/what-they-forgot-to-teach-you-system-setup-for-rstudio-conf-2019/20914) if you hit a roadblock.**
+Please do the requested Git/GitHub prep in advance, as per email! Go [here](http://happygitwithr.com/workshops.html#pre-workshop-set-up) for details and use [this community thread](https://community.rstudio.com/t/what-they-forgot-to-teach-you-system-setup-for-rstudio-conf-2019/20914) if you hit a roadblock.
 
 ## Basic schedule
 
-8:00 - 9:00 Registration/breakfast  
-9:00 - 10:30 Workshop session 1  
+08:00 - 09:00 Registration/breakfast  
+09:00 - 10:30 Workshop session 1  
 10:30 - 11:00 Break  
 11:00 - 12:30 Workshop session 2  
-12:30 - 2:00 Lunch  
-2:00 - 3:30 Workshop session 3  
-3:30 - 4:00 Break  
-4:00 - 5:30 Workshop session 4  
+12:30 - 14:00 Lunch  
+14:00 - 15:30 Workshop session 3  
+15:30 - 16:00 Break  
+16:00 - 17:30 Workshop session 4  
 
 ## Themes
 
@@ -46,9 +45,18 @@ Details specific to the January 15/16 2019 offering of the "What They Forgot to 
 | Day 2, 3 | Git/GitHub 3 of 3<br>workflows<br>[slides](day2_slides3_git-dilemmas-and-workflows.pdf) | Jenny |
 | Day 2, 4 | Iteration with purrr<br>[purrr slides](https://speakerdeck.com/jennybc/purrr-workshop)<br>[bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)<br>Conclusion | Jenny |
 
-## Resources
+## Feedback and communication
 
-*link to come* is our chat room (ignore if you are overstimulated already)
+*link to come* is our chat room. Good for live chat during the workshop. Feel free to ignore if you are overstimulated already.
+
+[Issues](https://github.com/jennybc/wtf-2019-rsc/issues) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
+
+  * Glitches in the instructions or materials that we need to fix, for current workshop or future
+  * Missing content that we identify
+  * Great questions or sidebar discussions that we should consider formalizing and recording
+  * Questions that are too specific or technical to answer in real-time
+
+## Resources
 
 Written versions of content are under open development here:
 
@@ -56,3 +64,8 @@ Written versions of content are under open development here:
   * [Happy Git and GitHub for the useR](http://happygitwithr.com) (bookdown site)
   * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/)
   
+## Links that are handy to us
+
+  * GitHub repo: <https://github.com/jennybc/wtf-2019-rsc>
+  * GitHub Pages site, served from that repo: <https://jennybc.github.io/wtf-2019-rsc/>
+  * Easy-to-type rstd.io short link to that GitHub Pages site: [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc)
