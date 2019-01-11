@@ -16,13 +16,13 @@ Please do the requested Git/GitHub prep in advance, as per email! Go [here](http
 #### Tuesday
 
 08:00 - 09:00 Registration/breakfast  
-09:00 - 10:30 [1_1: Project-oriented workflow](day1_1)  
+09:00 - 10:30 [1_1: Project-oriented workflow 1 of 2](day1_1)  
 10:30 - 11:00 Break  
-11:00 - 12:30 [1_2: ???](day1_2)  
+11:00 - 12:30 [1_2: Project-oriented workflow 2 of 2](day1_2)    
 12:30 - 14:00 Lunch  
-14:00 - 15:30 [1_3: ???](day1_3)   
+14:00 - 15:30 [1_3: Debugging](day1_3)   
 15:30 - 16:00 Break  
-16:00 - 17:30 [1_4: ???](day1_4)  
+16:00 - 17:30 [1_4: Git/GitHub 1](day1_4)  
 
 #### Wednesday
 
@@ -35,6 +35,10 @@ Please do the requested Git/GitHub prep in advance, as per email! Go [here](http
 15:30 - 16:00 Break  
 16:00 - 17:30 [2_4: ???](day2_4)  
 
+<!--
+Iteration with purrr<br>[purrr slides](https://speakerdeck.com/jennybc/purrr-workshop)<br>[bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)
+-->
+
 ## Themes
 
   * Project-oriented mentality, organization, predictability, portability
@@ -42,21 +46,6 @@ Please do the requested Git/GitHub prep in advance, as per email! Go [here](http
   * Why and how re: version control, esp. with R and RStudio
   * Strategies for getting unstuck and helping yourself
   * Iterating well, esp. with purrr *game time decision*
-
-## Overview
-
-*table copied vebatim from Seattle October 2018 ... updates coming*
-
-| Unit          | What | Who |
-|---------------|------|-----|
-| Day 1, 1 | Admin & greetings<br>Project-oriented workflow<br>[slides](day1_slides1_projects-and-paths.pdf)<br>`usethis::use_course("rstd.io/wtf-1")` | Jenny
-| Day 1, 2 | File paths and names<br>API for an analysis<br>`usethis::use_course("rstd.io/wtf-2")` | Jenny |
-| Day 1, 3 | Git/GitHub 1 of 3<br>[slides](day1_slides2_git-and-github.pdf) | Jenny |
-| Day 1, 4 | Git/GitHub 2 of 3<br>[slides](day1_slides4_git-branching-and-remotes.pdf) | Jim |
-| Day 2, 1 | R Startup <br>Manage a package library<br>[slides](day2_slides1_R-startup-maintaining-libraries.pdf)<br>[`.Renviron` activity](https://whattheyforgot.org/r-startup.html#renviron)<br>[`.Rprofile` activity](https://whattheyforgot.org/r-startup.html#rprofile) | Jim |
-| Day 2, 2 | Debugging<br>[slides](day2_slides2_Debugging-Code-Search.pdf)| Jim |
-| Day 2, 3 | Git/GitHub 3 of 3<br>workflows<br>[slides](day2_slides3_git-dilemmas-and-workflows.pdf) | Jenny |
-| Day 2, 4 | Iteration with purrr<br>[purrr slides](https://speakerdeck.com/jennybc/purrr-workshop)<br>[bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)<br>Conclusion | Jenny |
 
 ## Feedback and communication
 
