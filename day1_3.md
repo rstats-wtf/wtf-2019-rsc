@@ -5,6 +5,7 @@ Who: Jim
 Agenda
 
   * Debugging
+  * Finding Source code of R functions
   
 Slides
 

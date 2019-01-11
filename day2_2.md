@@ -1,9 +1,10 @@
 ## Day 2, Session 2
 
-Who: Jim
+Who: Jim, Jeroen Ooms
 
 Agenda
 
+  * R Infrastructure - Jeroen Ooms
   * Administering your R installation 2 of 2
   
 Slides
