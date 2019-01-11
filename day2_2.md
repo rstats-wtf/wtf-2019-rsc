@@ -17,4 +17,5 @@ Activity prompts
 
 Resources
 
-  * *add links to relevant parts of [What They Forgot to Teach You About R](https://whattheyforgot.org) book*
+  * [Setup an R dev environment](https://whattheyforgot.org/setup-an-r-dev-environment.html)
+  * [Install a source package](https://whattheyforgot.org/install-a-source-package.html)

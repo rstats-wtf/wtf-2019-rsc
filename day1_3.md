@@ -19,4 +19,5 @@ Activity prompts
 
 Resources
 
-  * *add links to relevant parts of [What They Forgot to Teach You About R](https://whattheyforgot.org) book*
+  * [Debugging R Code](https://whattheyforgot.org/debugging-r-code.html)
+  * [Read the Source](https://whattheyforgot.org/read-the-source.html)

@@ -17,4 +17,5 @@ Activity prompts
 
 Resources
 
-  * *add links to relevant parts of [What They Forgot to Teach You About R](https://whattheyforgot.org) book*
+  * [R Startup](https://whattheyforgot.org/r-startup.html)
+  * [Maintaining R](https://whattheyforgot.org/maintaining-r.html)
