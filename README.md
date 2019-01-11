@@ -60,7 +60,7 @@ Please do the requested Git/GitHub prep in advance, as per email! Go [here](http
 
 ## Feedback and communication
 
-*link to come* is our chat room. Good for live chat during the workshop. Feel free to ignore if you are overstimulated already.
+<https://gitter.im/what-they-forgot/wtf-2019-rsc> is our chat room. Good for live chat during the workshop. Feel free to ignore if you are overstimulated already.
 
 [Issues](https://github.com/jennybc/wtf-2019-rsc/issues) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
 
