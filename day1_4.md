@@ -5,6 +5,7 @@ Who: Jenny
 Agenda
 
   * Intro to GitHub and Git, with RStudio
+  * Using R Markdown and R with Git, GitHub, and RStudio (if time permits)
   
 Slides
 
