@@ -1,22 +1,15 @@
 ## Day 2, Session 3
 
-Who: Jenny
+Who: ???
 
 Agenda
 
-  * Using R Markdown and R with Git, GitHub, and RStudio (if not completed yet)
-  * Remotes
-  * Branches
-  * Useful workflows (if time permits)
+  * ???
   
 Slides
 
-  * [wtf-slides-placeholder.pdf](wtf-slides-placeholder.pdf)
+  * [???.pdf](???.pdf)
   
 Activity prompts
 
-  * *to come*
-  
-Resources
-
-  * *add links to Happy Git*
+  * `usethis::use_course("rstd.io/???")`
