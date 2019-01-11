@@ -27,17 +27,13 @@ Please do the requested Git/GitHub prep in advance, as per email! Go [here](http
 #### Wednesday
 
 08:00 - 09:00 Registration/breakfast  
-09:00 - 10:30 [2_1: ???](day2_1)  
+09:00 - 10:30 [2_1: Personal R Administration 1 of 2](day2_1)  
 10:30 - 11:00 Break  
-11:00 - 12:30 [2_2: ???](day2_2)  
+11:00 - 12:30 [2_2: Personal R Administration 1 of 2](day2_2)  
 12:30 - 14:00 Lunch  
-14:00 - 15:30 [2_3: ???](day2_3)  
+14:00 - 15:30 [2_3: Git/GitHub 2](day2_3)  
 15:30 - 16:00 Break  
-16:00 - 17:30 [2_4: ???](day2_4)  
-
-<!--
-Iteration with purrr<br>[purrr slides](https://speakerdeck.com/jennybc/purrr-workshop)<br>[bit.ly/jenny-live-code](http://bit.ly/jenny-live-code)
--->
+16:00 - 17:30 [2_4: Git/GitHub 3 and/or Iterating well with purrr](day2_4)  
 
 ## Themes
 
