@@ -5,7 +5,7 @@ Details specific to:
   * "What They Forgot to Teach You About R" workshop
   * January 15/16 2019, [rstudio::conf 2019](https://www.rstudio.com/conference/) training days, Austin, TX
 
-[rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc) <-- The One True URL that will link to everything!
+[rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc) <-- The One True URL that links to everything!
 
 ## Pre-work
 
