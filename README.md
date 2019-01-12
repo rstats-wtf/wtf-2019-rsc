@@ -39,7 +39,7 @@ Please do the requested Git/GitHub prep in advance, as per email! Go [here](http
 
 Instructors
 
-  * Jenny Bryan [jennybryan.org](https://jennybryan.org) | Github [\@jennybc](https://github.com/jennybc) | Twitter [\@jennybryan](https://twitter.com/jennybryan)
+  * Jenny Bryan [jennybryan.org](https://jennybryan.org) \| Github [\@jennybc](https://github.com/jennybc) \| Twitter [\@jennybryan](https://twitter.com/jennybryan)
   * Jim Hester [jimhester.com](https://www.jimhester.com) | Github [\@jimhester](https://github.com/jimhester) | Twitter [\@jimhester_](https://twitter.com/jimhester_)
   
 TAs and special guests
