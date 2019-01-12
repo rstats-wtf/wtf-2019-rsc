@@ -1,6 +1,6 @@
 # [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc)
 
-Details specific to:
+Agenda for:
 
   * "What They Forgot to Teach You About R" workshop
   * January 15/16 2019, [rstudio::conf 2019](https://www.rstudio.com/conference/) training days, Austin, TX
@@ -34,6 +34,21 @@ Please do the requested Git/GitHub prep in advance, as per email! Go [here](http
 14:00 - 15:30 [2_3: Git/GitHub 2](day2_3)  
 15:30 - 16:00 Break  
 16:00 - 17:30 [2_4: Git/GitHub 3 and/or Iterating well with purrr](day2_4)  
+
+## Staff
+
+Instructors
+
+  * Jenny Bryan [jennybryan.org](https://jennybryan.org) | Github [\@jennybc](https://github.com/jennybc) | Twitter [\@jennybryan](https://twitter.com/jennybryan)
+  * Jim Hester [jimhester.com](https://www.jimhester.com) | Github [\@jimhester](https://github.com/jimhester) | Twitter [\@jimhester_](https://twitter.com/jimhester_)
+  
+TAs and special guests
+
+  * Gábor Csárdi | Github [\@gaborcsardi](https://github.com/gaborcsardi) | Twitter [\@gaborcsardi](https://twitter.com/gaborcsardi)
+  * Derrick Kearney [dskard.github.io](http://dskard.github.io) | Github [\@dskard](https://github.com/dskard)
+  * Grace Lawley [grace.rbind.io](https://grace.rbind.io) | Github [\@gracelawley](https://github.com/gracelawley) | Twitter [\@graceolawley](https://twitter.com/graceolawley)
+  * Lionel Henry | Github [\@lionel-](https://github.com/lionel-) | Twitter [\@_lionelhenry](https://twitter.com/_lionelhenry)
+  * Jeroen Ooms | Github [\@jeroen](https://github.com/jeroen) | Twitter [\@opencpu](https://twitter.com/opencpu)
 
 ## Themes
 
