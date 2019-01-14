@@ -15,8 +15,8 @@ Slides
 Activity prompts
 
   * *link to "What's your OS?" issue*
-  * `usethis::use_course("rstd.io/wtf-1")`
-    - Having trouble? Grab the files in this repo: *to be updated*
+  * `use_course("rstd.io/wtf-explore-libraries")`
+    - No luck? Get the files in this repo: <https://github.com/jennybc/explore-libraries>
 
 Resources
 
