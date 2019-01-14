@@ -16,7 +16,7 @@ Activity prompts
 
   * *link to "What's your OS?" issue*
   * `use_course("rstd.io/wtf-explore-libraries")`
-    - No luck? Get the files in this repo: <https://github.com/jennybc/explore-libraries>
+    - No luck? Get the files in this repo: <https://github.com/jennybc/wtf-explore-libraries>
 
 Resources
 
