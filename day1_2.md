@@ -13,9 +13,12 @@ Slides
   
 Activity prompts
 
-  * `usethis::use_course("rstd.io/wtf-2")`
-    - Having trouble? Grab the files in this repo: *to be updated*
+  * `use_course("rstd.io/wtf-packages-report")`
+    - No luck? Get the files in this repo: <https://github.com/jennybc/wtf-packages-report>
 
 Resources
 
-  * *add links to relevant parts of [What They Forgot to Teach You About R](https://whattheyforgot.org) book*
+  * [Saving source and blank slates](https://whattheyforgot.org/save-source.html)
+  * [Project-oriented workflow](https://whattheyforgot.org/project-oriented-workflow.html)
+  * [How to name files](https://whattheyforgot.org/how-to-name-files.html)
+  * [API for an analysis](https://whattheyforgot.org/api-for-an-analysis.html)
