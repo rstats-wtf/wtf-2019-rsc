@@ -8,8 +8,8 @@ Agenda
   
 Slides
 
-  * [wtf-slides-placeholder.pdf](wtf-slides-placeholder.pdf)
-  * *note: same PDF is used for sessions 1 and 2*
+  * [project-oriented-workflow.pdf](project-oriented-workflow.pdf)
+    - *note: same PDF is used for sessions 1 and 2*
   
 Activity prompts
 
