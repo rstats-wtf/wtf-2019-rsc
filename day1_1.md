@@ -20,4 +20,8 @@ Activity prompts
 
 Resources
 
-  * *add links to relevant parts of [What They Forgot to Teach You About R](https://whattheyforgot.org) book*
+  * Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, et al. (2017) Good enough practices in scientific computing. PLOS Computational Biology 13(6): e1005510.
+    - <https://doi.org/10.1371/journal.pcbi.1005510>
+    - <http://bit.ly/good-enuff>
+  * [Saving source and blank slates](https://whattheyforgot.org/save-source.html)
+  * [Project-oriented workflow](https://whattheyforgot.org/project-oriented-workflow.html)
