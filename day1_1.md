@@ -25,3 +25,4 @@ Resources
     - <http://bit.ly/good-enuff>
   * [Saving source and blank slates](https://whattheyforgot.org/save-source.html)
   * [Project-oriented workflow](https://whattheyforgot.org/project-oriented-workflow.html)
+  * [Ode to the here package](https://github.com/jennybc/here_here#readme)
