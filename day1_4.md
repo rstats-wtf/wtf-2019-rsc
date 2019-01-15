@@ -9,11 +9,12 @@ Agenda
   
 Slides
 
-  * [wtf-slides-placeholder.pdf](wtf-slides-placeholder.pdf)
+  * [git-and-github-early-usage](git-and-github-early-usage)
   
 Activity prompts
 
   * *instructor-led activities*
+  * if time permits, work on porting packages-report project into a GitHub-synced repo
   
 Resources
 
