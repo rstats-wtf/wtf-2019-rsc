@@ -22,6 +22,9 @@ Activity prompts
   
 Resources
 
+  * Git/GitHub motivator and explainer: "Excuse me, do you have a moment to talk about version control?"
+    - PeerJ preprint: <https://dx.doi.org/10.7287%2Fpeerj.preprints.3159v2>
+    - In The American Statistician: <https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928>
   * [New project, GitHub first](https://happygitwithr.com/new-github-first.html)
   * [Test drive R Markdown](https://happygitwithr.com/rmd-test-drive.html)
   * [Render an R script](https://happygitwithr.com/r-test-drive.html)
