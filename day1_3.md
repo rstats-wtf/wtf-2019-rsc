@@ -9,7 +9,8 @@ Agenda
   
 Slides
 
-  * [wtf-slides-placeholder.pdf](wtf-slides-placeholder.pdf)
+  * <debugging.pdf>
+  * <read-the-source.pdf>
   
 Activity prompts
 
