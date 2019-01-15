@@ -15,6 +15,10 @@ Activity prompts
 
   * *instructor-led activities*
   * if time permits, work on porting packages-report project into a GitHub-synced repo
+    - Keep working in the project we initiated on GitHub, then cloned, and practiced in.
+    - Go through several cycles of: bring R script over, commit & push, execute script, see the output appear, commit and push, etc.
+    - Play with rendering to `.md` if you like.
+    - We'll work up to finishing it with a README.
   
 Resources
 
