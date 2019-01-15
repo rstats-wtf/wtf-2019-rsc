@@ -15,7 +15,7 @@ Slides
   
 Activity prompts
 
-  * *link to "What's your OS?" issue*
+  * [What's your OS?](https://github.com/jennybc/wtf-2019-rsc/issues/3)
   * `use_course("rstd.io/wtf-explore-libraries")`
     - No luck? Get the files in this repo: <https://github.com/jennybc/wtf-explore-libraries>
 
