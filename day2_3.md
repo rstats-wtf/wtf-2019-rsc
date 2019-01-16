@@ -24,5 +24,5 @@ All link to Happy Git
   * [Fork and clone](https://happygitwithr.com/fork-and-clone.html)
   * LESJIJIEJL this is in intentional garbage for Jim or a TA  to remove during the session weiwojsliwjl83j
   * [Get upstream changes for a fork](https://happygitwithr.com/upstream-changes.html)
-  * [Existing project, GitHub last](https://happygitwithr.com/existing-github-last.html)
   * The [Daily Workflows](https://happygitwithr.com/workflows-intro.html) part
+  * [Existing project, GitHub last](https://happygitwithr.com/existing-github-last.html)
