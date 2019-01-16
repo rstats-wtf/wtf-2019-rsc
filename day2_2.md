@@ -10,6 +10,7 @@ Agenda
 Slides
 
   * [install-source-package.pdf](install-source-package.pdf)
+  * Jeroen's talk: <https://jeroen.github.io/uros2018/#1>
   
 Activity prompts
 
