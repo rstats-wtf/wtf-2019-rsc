@@ -5,11 +5,13 @@ Who: Jim and Jeroen
 Agenda
 
   * Administering your R installation 1 of 2
-  
+  * R Startup files
+  * Maintaining R
+
 Slides
 
-  * [wtf-slides-placeholder.pdf](wtf-slides-placeholder.pdf)
-  
+  * [R-startup](R-startup.pdf)
+
 Activity prompts
 
   * `usethis::use_course("rstd.io/wtf-startup")`

@@ -5,15 +5,15 @@ Who: Jim, Jeroen Ooms
 Agenda
 
   * R Infrastructure - Jeroen Ooms
-  * Administering your R installation 2 of 2
+  * Administering your R installation 2 of 2 - Installing a source package
   
 Slides
 
-  * [wtf-slides-placeholder.pdf](wtf-slides-placeholder.pdf)
+  * [install-source-package.pdf](install-source-package.pdf)
   
 Activity prompts
 
-  * `usethis::use_course("rstd.io/source-package")`
+  * `usethis::use_course("rstd.io/wtf-source-package")`
     - Having trouble? Grab the files in this repo: <https://github.com/jimhester/wtf-source-package>
 
 Resources
