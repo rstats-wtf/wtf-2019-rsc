@@ -4,10 +4,8 @@ Who: Jenny
 
 Agenda
 
-  * Using R Markdown and R with Git, GitHub, and RStudio (if not completed yet)
-  * Remotes
-  * Branches
-  * Useful workflows (if time permits)
+  * Introduce remotes and branches
+  * Useful Git workflows, esp. time travel
   
 Slides
 
@@ -15,8 +13,10 @@ Slides
   
 Activity prompts
 
-  * *to come*
+  * *integrated into slides*
   
 Resources
 
-  * *add links to Happy Git*
+  * [Branches](https://happygitwithr.com/git-branches.html) in Happy Git
+  * [Remotes](https://happygitwithr.com/git-remotes.html) in Happy Git
+  * The [Daily Workflows](https://happygitwithr.com/workflows-intro.html) of Happy Git

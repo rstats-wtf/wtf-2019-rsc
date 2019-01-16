@@ -33,7 +33,7 @@ Please do the requested Git/GitHub prep in advance, as per email! Go [here](http
 12:30 - 14:00 Lunch  
 14:00 - 15:30 [2_3: Git/GitHub 2](day2_3)  
 15:30 - 16:00 Break  
-16:00 - 17:30 [2_4: Git/GitHub 3 and/or Iterating well with purrr](day2_4)  
+16:00 - 17:30 [2_4: Iterating well with purrr](day2_4)  
 
 ## Staff
 
