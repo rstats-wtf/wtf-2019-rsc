@@ -9,11 +9,11 @@ Agenda
   
 Slides
 
-  * [wtf-slides-placeholder.pdf](wtf-slides-placeholder.pdf)
+  * [git-and-github-daily-workflows.pdf](git-and-github-daily-workflows.pdf)
   
 Activity prompts
 
-  * *integrated into slides*
+  * *integrated into slides (see above) and Happy Git (see below)*
   
 Resources
 
