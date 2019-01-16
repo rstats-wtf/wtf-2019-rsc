@@ -19,6 +19,8 @@ Activity prompts
     - Go through several cycles of: bring R script over, commit & push, execute script, see the output appear, commit and push, etc.
     - Play with rendering to `.md` if you like.
     - We'll work up to finishing it with a README.
+  * The project you downloaded earlier today, via `use_course("rstd.io/wtf-packages-report")`, provides everything you need to finish this off, i.e. `shhh-secret-for-later-README.Rmd` is a nice start for a README.
+  * The finished product I showed you is here: <https://github.com/jennybc/wtf-packages-report-EXAMPLE>
   
 Resources
 
